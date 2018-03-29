@@ -376,7 +376,7 @@ div.toc3 { margin-left:0.7em; }
 
 #mainnav {
 	margin: 0;
-	background: #FAFAFA url(images/tile_button.gif) top left repeat;
+	background: #efefef url(images/tile_button.gif) top left repeat;
 	border-top: #4c0000 solid 1px;
 	border-bottom: #4c0000 solid 1px;
 	padding: 0;
@@ -425,7 +425,7 @@ div.toc3 { margin-left:0.7em; }
 
 #mainnav a.selected, a.selected:hover {
 	color: #FFFFFF;
-	background: #B22222 url(images/tile_mainnav-select.gif) top left repeat;
+	background: #0e2226 url(images/tile_mainnav-select.gif) top left repeat;
 }
 .navbar {
 
